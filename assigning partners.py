@@ -7,7 +7,7 @@ def test(first, second, nameNum):
                 if second[index]!= first[x]:
                     return False   
     return True
-
+#change change change
 def main():
 
     nameNum = int(input())
@@ -22,5 +22,5 @@ def main():
         print("good")
     else: 
         print("bad")
-
+#im making changes
 main()
