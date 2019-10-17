@@ -5,9 +5,9 @@ def test(first, second, nameNum):
             if first[y]==(partner):
                 index = y
                 if second[index]!= first[x]:
-                    return False   
+                    return False
     return True
-#change change change
+
 def main():
 
     nameNum = int(input())
@@ -20,7 +20,7 @@ def main():
 
     if result:
         print("good")
-    else: 
+    else:
         print("bad")
-#im making changes
+
 main()
